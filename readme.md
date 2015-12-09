@@ -8,7 +8,7 @@ About
 generate invalid correlation matrices.  The matrices are taken from the
 literature and from applications.  They are used in
 
-N. J. Higham and N. Strabić, "[Bounds For the Distance to the Nearest
+N. J. Higham and N. Strabić, "[Bounds for the Distance to the Nearest
 Correlation Matrix](http://eprints.ma.man.ac.uk/2420)", MIMS EPrint
 2015.112, Manchester Institute for Mathematical Sciences, The University of
 Manchester, UK, December 2015.
