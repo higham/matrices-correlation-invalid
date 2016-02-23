@@ -1,6 +1,6 @@
 function A = bhwi01
-%bhwi01   Invalid correlation matrix relating to portfolio risk.
-%   bhwi01 is a 5-by-5 invalid correlation matrix relating to portfolio risk.
+%BHWI01   Invalid correlation matrix relating to portfolio risk.
+%   BHWI01 is a 5-by-5 invalid correlation matrix relating to portfolio risk.
 
 %   Source: second matrix in Section 2 of
 %   Vineer Bhansali and Mark B. Wise.

@@ -19,9 +19,12 @@ N. J. Higham and N. Strabić, "[Anderson Acceleration of the Alternating
 Projections Method for Computing the Nearest Correlation
 Matrix](http://eprints.ma.man.ac.uk/2360)", MIMS EPrint 2015.39,
 Manchester Institute for Mathematical Sciences, The University of
-Manchester, UK, August 2015; to appear in Numerical Algorithms.
+Manchester, UK, August 2015; to appear in Numerical Algorithms,
+doi 10.1007/s11075-015-0078-3.
 
 The matrices are
+
+* `beyu11`: 12-by-12 matrix based on tetrachoric estimates.
 
 * `bhwi01`: 5-by-5 matrix relating to portfolio risk.
 

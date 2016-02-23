@@ -1,6 +1,6 @@
 function A = tec03
-%tec03    Invalid correlation matrix from stress testing.
-%   tec03 is a 4-by-4 invalid correlation matrix from stress testing.
+%TEC03    Invalid correlation matrix from stress testing.
+%   TEC03 is a 4-by-4 invalid correlation matrix from stress testing.
 
 %   Source: $\widehat \Omega$ on p.~86 in
 %   Saygun Turkay, Eduardo Epperlein, and Nicos Christofides. Correlation

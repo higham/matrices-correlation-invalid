@@ -1,6 +1,6 @@
 function A = high02
-%high02  Invalid correlation matrix. 
-%   high02 is a 3-by-3 invalid correlation matrix.
+%HIGH02  Invalid correlation matrix. 
+%   HIGH02 is a 3-by-3 invalid correlation matrix.
 
 %   Source: p. 334 of
 %   Nicholas J. Higham. Computing the nearest correlation matrix---A

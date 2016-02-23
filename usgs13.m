@@ -1,6 +1,6 @@
 function A = usgs13
-%usgs13   Invalid correlation matrix from US Geological Survey.
-%   [A,pattern] = usgs13 returns a 94-by-94 invalid correlation matrix A
+%USGS13   Invalid correlation matrix from US Geological Survey.
+%   [A,pattern] = USGS13 returns a 94-by-94 invalid correlation matrix A
 %   and pattern, a matrix of positions that must remain fixed in
 %   transforming A to a correlation matrix: the (i,j) element of
 %   pattern is 1 if the corresponding element of A is to remain fixed, else
