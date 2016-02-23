@@ -1,4 +1,4 @@
-%test     Test the invalid correlation matrices.
+%TEST    Test the invalid correlation matrices.
 %   Generate matrices, test for symmetry and unit diagonal and
 %   compute smallest eigenvalue.
 
