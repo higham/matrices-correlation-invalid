@@ -1,6 +1,6 @@
 function A = mmb13
 %MMB13    Invalid correlation matrix from foreign exchange trading.
-%   mmb13 is a 6-by-6 invalid correlation matrix from foreign exchange
+%   MMB13 is a 6-by-6 invalid correlation matrix from foreign exchange
 %   trading data supplied by the Royal Bank of Scotland.
 
 %   Source: page 36 of

@@ -1,6 +1,6 @@
 function A = tyda99r1
-%tyda99r1   Invalid correlation matrix from resource allocation modeling.
-%   tyda99r1 is an 8-by-8 invalid correlation matrix from resource
+%TYDA99R1   Invalid correlation matrix from resource allocation modeling.
+%   TYDA99R1 is an 8-by-8 invalid correlation matrix from resource
 %   allocation modeling.
 
 %   Source:

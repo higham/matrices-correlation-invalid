@@ -1,6 +1,6 @@
 function [A,pattern] = fing97
-%fing97   Invalid correlation matrix from stress testing.
-%   [A,pattern] = fing97 returns a 7-by-7 invalid correlation matrix A 
+%FING97   Invalid correlation matrix from stress testing.
+%   [A,pattern] = FING97 returns a 7-by-7 invalid correlation matrix A 
 %   from stress testing. The output pattern defines positions that must
 %   remain fixed in transforming A to a valid correlation matrix. The (i,j)
 %   element of pattern is 1 if the corresponding element of A is to remain
