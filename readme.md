@@ -62,7 +62,7 @@ sure that the collection is properly installed.
 Requirements
 -------------
 
-The codes have been developed under MATLAB 2015b.
+The codes have been developed under MATLAB 2015b and 2016a.
 
 License
 -------
