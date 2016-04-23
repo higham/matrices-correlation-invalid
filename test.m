@@ -2,8 +2,9 @@
 %   Generate matrices, test for symmetry and unit diagonal and
 %   compute smallest eigenvalue.
 
-x = {'beyu11', 'bhwi01', 'cor1399', 'cor3120', 'fing97', 'high02', ...
-     'mmb13', 'tec03',  'tyda99r1','tyda99r2', 'tyda99r3', 'usgs13'};
+x = {'bccd16', 'beyu11', 'bhwi01', 'cor1399', 'cor3120', 'fing97', ...
+     'high02', 'mmb13', 'tec03',  'tyda99r1','tyda99r2', 'tyda99r3', ...
+     'usgs13'};
 
 fprintf('Matrix name   Dim.  Smallest eigenvalue\n')
 for i = 1:length(x)
@@ -18,4 +19,3 @@ for i = 1:length(x)
     end
     fprintf('%8s:    %4.0f     %9.2e\n', fname, length(A), min(eig(A)) )
 end
-

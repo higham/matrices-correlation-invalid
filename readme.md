@@ -24,6 +24,8 @@ doi 10.1007/s11075-015-0078-3.
 
 The matrices are
 
+* `bccd16`: 3250-by-3250 matrix from EU bank data.
+
 * `beyu11`: 12-by-12 matrix based on tetrachoric estimates.
 
 * `bhwi01`: 5-by-5 matrix relating to portfolio risk.
