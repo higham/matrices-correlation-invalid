@@ -14,16 +14,14 @@ literature and from applications.  They are used in
 
 N. J. Higham and N. Strabić, "[Bounds for the Distance to the Nearest
 Correlation Matrix](https://doi.org/10.1137/15M1052007)", 
-SIAM J. Matrix Anal. Appl., 37(3): 1088--1102, 2016, 
+SIAM J. Matrix Anal. Appl., 37(3): 1088-1102, 2016, 
 
 and
 
 N. J. Higham and N. Strabić, "[Anderson Acceleration of the Alternating
 Projections Method for Computing the Nearest Correlation
-Matrix](http://eprints.ma.man.ac.uk/2360)", MIMS EPrint 2015.39,
-Manchester Institute for Mathematical Sciences, The University of
-Manchester, UK, August 2015; to appear in Numerical Algorithms,
-doi 10.1007/s11075-015-0078-3.
+Matrix](https://doi.org/10.1007/s11075-015-0078-3)", 
+Numer. Algorithms, 72(4):1021--1042, 2016.
 
 The matrices are
 
