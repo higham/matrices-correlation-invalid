@@ -21,7 +21,7 @@ and
 N. J. Higham and N. Strabić, "[Anderson Acceleration of the Alternating
 Projections Method for Computing the Nearest Correlation
 Matrix](https://doi.org/10.1007/s11075-015-0078-3)", 
-Numer. Algorithms, 72(4):1021--1042, 2016.
+Numer. Algorithms, 72(4):1021-1042, 2016.
 
 The matrices are
 
@@ -59,6 +59,18 @@ sure that the collection is properly installed.
 * `treshape`: a utility function for converting vectors to triangular
   matrices and vice versa.  This is taken from the
   [Matrix Computation Toolbox](http://www.ma.man.ac.uk/~higham/mctoolbox).
+  
+* `am_properties.m` summarizes properties of the matrices and is intended
+  for use when this collection is integrated as a group in the
+  [Anymatrix](https://github.com/mmikaitis/anymatrix) collection.
+
+
+Anymatrix Integration
+-----
+
+This collection is ready to include as a group in the [Anymatrix](https://github.com/mmikaitis/anymatrix) collection,
+for which the name `matcorinv` should be used.
+
 
 Requirements
 -------------
