@@ -60,7 +60,7 @@ sure that the collection is properly installed.
   matrices and vice versa.  This is taken from the
   [Matrix Computation Toolbox](http://www.ma.man.ac.uk/~higham/mctoolbox).
   
-* `am_properties.m` summarizes properties of the matrices and is intended
+* `am_properties.m`: lists properties of the matrices and is intended
   for use when this collection is integrated as a group in the
   [Anymatrix](https://github.com/mmikaitis/anymatrix) collection.
 
