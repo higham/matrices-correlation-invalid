@@ -5,13 +5,16 @@ About
 -----
 
 `matrices-correlation-invalid` is a collection of MATLAB functions that
-generate invalid correlation matrices.  The matrices are taken from the
+generate invalid correlation matrices: matrices that 
+are intended to be correlation matrices but for various reasons 
+relating to their construction
+have a negative eigenvalue and so are not positive semidefinite.
+The matrices are taken from the
 literature and from applications.  They are used in
 
 N. J. Higham and N. Strabić, "[Bounds for the Distance to the Nearest
-Correlation Matrix](http://eprints.ma.man.ac.uk/2420)", MIMS EPrint
-2015.112, Manchester Institute for Mathematical Sciences, The University of
-Manchester, UK, December 2015.
+Correlation Matrix](https://doi.org/10.1137/15M1052007)", 
+SIAM J. Matrix Anal. Appl., 37(3): 1088--1102, 2016, 
 
 and
 
