@@ -1,4 +1,4 @@
-% MATRICES-CORRELATION-INVALID
+% MATRICES-CORRELATION-INVALID (Anymatrix group CORRINV)
 %   bccd16   - Invalid correlation matrix constructed from EU bank data.
 %   beyu11   - Invalid correlation matrix based on tetrachoric estimates.
 %   bhwi01   - Invalid correlation matrix relating to portfolio risk.

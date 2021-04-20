@@ -69,7 +69,7 @@ Anymatrix Integration
 -----
 
 This collection is ready to include as a group in the [Anymatrix](https://github.com/mmikaitis/anymatrix) collection,
-for which the name `matcorinv` should be used.
+for which the name `corrinv` should be used.
 
 
 Requirements
