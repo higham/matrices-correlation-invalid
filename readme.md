@@ -47,7 +47,7 @@ trading data supplied by the Royal Bank of Scotland.
 * `tyda99r1`, `tyda99r2`, and `tyda99r3`: 8-by-8 matrices from resource
 allocation modeling.
 
-* `usgs13`: 94-by-94 from national assessment of carbon dioxide storage
+* `usgs13`: 94-by-94 matrix from national assessment of carbon dioxide storage
 resources in the USA.
 
 Other M-files:
