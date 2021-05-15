@@ -9,7 +9,6 @@ P = {'bccd16', {'symmetric', 'indefinite', 'fixed size'}
      'high02', {'symmetric', 'indefinite', 'fixed size'}
      'mmb13', {'symmetric', 'indefinite', 'fixed size'}
      'tec03', {'symmetric', 'indefinite', 'fixed size'}
-     'treshape', {'symmetric', 'indefinite', 'fixed size'}
      'tyda99r1', {'symmetric', 'indefinite', 'fixed size'}
      'tyda99r2', {'symmetric', 'indefinite', 'fixed size'}
      'tyda99r3', {'symmetric', 'indefinite', 'fixed size'}
