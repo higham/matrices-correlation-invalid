@@ -73,7 +73,7 @@ for which the command
 ```
 anymatrix('g','corrinv','higham/matrices-correlation-invalid')
 ```
-should be used, which gives the group the name name `corrinv`. 
+should be used, which gives the group the name `corrinv`. 
 
 Requirements
 -------------
