@@ -52,7 +52,7 @@ resources in the USA.
 
 Other M-files:
 
-* `test`: test function that generates the matrices and prints the
+* `test_run`: test function that generates the matrices and prints the
 dimension and smallest eigenvalue of each matrix.  Run this to make
 sure that the collection is properly installed.
 
